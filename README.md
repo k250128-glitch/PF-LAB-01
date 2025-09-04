@@ -8,9 +8,17 @@ _This line is in italic_
 <br/>
 ~~MISTAKE~~
 <br/>
-Unordred List
+Unordered List
 <br/>
-- List1
-- List2
-- List3
-- List4
+- Item-01
+- Item-02
+- Item-03
+- Item-04
+<br/>
+ORDRED LIST
+<br/>
+1. Air
+2. Water
+3. Earth
+<br/>
+
